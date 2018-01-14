@@ -1,4 +1,3 @@
-/node_modules/
-/.git/
-/.vscode/
-/dist/
+_site
+.sass-cache
+.jekyll-metadata
